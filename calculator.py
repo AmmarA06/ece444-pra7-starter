@@ -10,4 +10,4 @@ def record(value, history=None):
 
 
 def subtract(a, b):
-    return a - c
+    return a - b
