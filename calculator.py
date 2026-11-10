@@ -7,3 +7,7 @@ def record(value, history=None):
         history = []
     history.append(value)
     return history
+
+
+def subtract(a, b):
+    return a - c
